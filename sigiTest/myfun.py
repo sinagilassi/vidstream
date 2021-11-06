@@ -1,2 +1,5 @@
+from .docs import dFun1_1
+
+
 def fun1():
-    return 1
+    return dFun1_1()

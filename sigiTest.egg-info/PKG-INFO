@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: sigiTest
-Version: 0.0.13
-Summary: Streaming video data via networks
+Version: 0.0.17
+Summary: SIGI TEST
 Home-page: UNKNOWN
-Author: NeuralNine (Florian Dedov)
-Author-email: <mail@neuralnine.com>
+Author: Sina
+Author-email: <sina@gmail.com>
 License: UNKNOWN
-Keywords: python,video,stream,video stream,camera stream,sockets
+Keywords: python
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers

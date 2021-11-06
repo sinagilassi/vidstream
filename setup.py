@@ -7,23 +7,22 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.13'
-DESCRIPTION = 'Streaming video data via networks'
-LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
+VERSION = '0.0.17'
+DESCRIPTION = 'SIGI TEST'
+LONG_DESCRIPTION = 'DES'
 
 # Setting up
 setup(
     name="sigiTest",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
-    author_email="<mail@neuralnine.com>",
+    author="Sina",
+    author_email="<sina@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['opencv-python', 'pyautogui', 'pyaudio'],
-    keywords=['python', 'video', 'stream',
-              'video stream', 'camera stream', 'sockets'],
+    install_requires=[],
+    keywords=['python'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",

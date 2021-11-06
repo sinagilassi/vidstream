@@ -2,11 +2,14 @@ LICENSE
 README.md
 setup.py
 sigiTest/__init__.py
-sigiTest/audio.py
 sigiTest/myfun.py
-sigiTest/streaming.py
 sigiTest.egg-info/PKG-INFO
 sigiTest.egg-info/SOURCES.txt
 sigiTest.egg-info/dependency_links.txt
-sigiTest.egg-info/requires.txt
 sigiTest.egg-info/top_level.txt
+sigiTest/core/__init__.py
+sigiTest/core/core_fun1.py
+sigiTest/core/core_fun2.py
+sigiTest/docs/__init__.py
+sigiTest/docs/doc_fun1.py
+sigiTest/docs/doc_fun2.py
