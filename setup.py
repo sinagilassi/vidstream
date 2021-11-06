@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audi
 
 # Setting up
 setup(
-    name="vidstream",
+    name="sigiTest",
     version=VERSION,
     author="NeuralNine (Florian Dedov)",
     author_email="<mail@neuralnine.com>",
@@ -22,7 +22,8 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=['opencv-python', 'pyautogui', 'pyaudio'],
-    keywords=['python', 'video', 'stream', 'video stream', 'camera stream', 'sockets'],
+    keywords=['python', 'video', 'stream',
+              'video stream', 'camera stream', 'sockets'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
