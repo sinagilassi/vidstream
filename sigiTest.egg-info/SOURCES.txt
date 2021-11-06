@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+sigiTest/__init__.py
+sigiTest/audio.py
+sigiTest/myfun.py
+sigiTest/streaming.py
+sigiTest.egg-info/PKG-INFO
+sigiTest.egg-info/SOURCES.txt
+sigiTest.egg-info/dependency_links.txt
+sigiTest.egg-info/requires.txt
+sigiTest.egg-info/top_level.txt
