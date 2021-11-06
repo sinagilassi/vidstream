@@ -4,3 +4,4 @@ from vidstream.streaming import VideoClient
 from vidstream.streaming import ScreenShareClient
 from vidstream.audio import AudioSender
 from vidstream.audio import AudioReceiver
+from vidstream.myfun import fun1
